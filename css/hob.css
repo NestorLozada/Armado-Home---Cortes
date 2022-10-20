@@ -1,0 +1,63 @@
+body{
+    background-color:#e9e8e4;
+    margin: 0;
+}
+.home-page{
+    border: 1px solid red;
+    max-width: 902px;
+    margin: 0 auto;
+}
+
+header{
+    border: 1px solid green;
+    height: 76px; 
+}
+header nav{
+    max-width: 606px;
+    border: 1px solid;
+    margin: 0 auto;
+    padding: 43px 0 0 0;
+}
+header nav a{
+    margin: 0 36px 0 3px;
+    text-transform: uppercase;
+    color: #000;
+    text-decoration: none;
+}
+main{
+
+}
+.top-content{
+    
+}
+.home-banner{
+
+}
+.home-banner img{
+
+}
+.logo{
+   
+}
+.logo img{
+
+}
+.box-container{
+    
+}
+.category-box{
+
+}
+.category-image{
+    
+}
+.category-box a{
+    
+}
+.category-title{
+    
+}
+footer{
+
+}
+
